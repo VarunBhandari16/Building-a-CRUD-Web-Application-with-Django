@@ -1,4 +1,7 @@
-**[Django-Web-Application](https://github.com/VarunBhandari16/Building-a-CRUD-Web-Application-with-Django)**
+<h3 align="center">
+  <img src="link_icon.png" alt="Link Icon" width="24px" height="24px" style="vertical-align: middle;">
+  <b>Django-Web-Application</b>
+</h3>
 
 "Welcome to my latest project, where I showcase my skills in web development by building a CRUD (Create, Read, Update, Delete) operation web application using Django, a powerful Python web framework.
 
