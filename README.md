@@ -1,4 +1,4 @@
-<h3 align="left">Django-Web-Application</h3>
+<h3 align="left">Django CRUD Project Showcase</h3>
 
 "Welcome to my latest project, where I showcase my skills in web development by building a CRUD (Create, Read, Update, Delete) operation web application using Django, a powerful Python web framework.
 
