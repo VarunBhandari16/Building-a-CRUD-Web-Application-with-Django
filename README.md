@@ -1,9 +1,4 @@
-<h3 align="center">
-  <img src="https://github.com/VarunBhandari16/Building-a-CRUD-Web-Application-with-Django" width="24px" height="24px" style="vertical-align: middle;"> 
-  <b>Django-Web-Application</b>
-</h3>
-
-<h3 align="left">Django-CRM-mastery-app-Project-1-YT</h3>
+<h3 align="left">Django-Web-Application</h3>
 
 "Welcome to my latest project, where I showcase my skills in web development by building a CRUD (Create, Read, Update, Delete) operation web application using Django, a powerful Python web framework.
 
