@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://github.com/VarunBhandari16/Building-a-CRUD-Web-Application-with-Django" width="24px" height="24px" style="vertical-align: middle;">
+  <img src="https://github.com/VarunBhandari16/Building-a-CRUD-Web-Application-with-Django" width="24px" height="24px" style="vertical-align: middle;"> 
   <b>Django-Web-Application</b>
 </h3>
 
