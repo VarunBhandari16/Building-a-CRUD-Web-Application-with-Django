@@ -3,6 +3,8 @@
   <b>Django-Web-Application</b>
 </h3>
 
+<h3 align="left">Django-CRM-mastery-app-Project-1-YT</h3>
+
 "Welcome to my latest project, where I showcase my skills in web development by building a CRUD (Create, Read, Update, Delete) operation web application using Django, a powerful Python web framework.
 
 In this project, I demonstrate my proficiency in Django by creating a fully functional web application that allows users to perform CRUD operations on a database. Throughout the development process, I leverage Django's built-in features such as models, views, templates, and forms to create a seamless user experience. 
